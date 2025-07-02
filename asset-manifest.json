@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ravi-Programming-Academy/static/css/main.f1f2987d.css",
+    "main.js": "/Ravi-Programming-Academy/static/js/main.2376f64e.js",
+    "static/js/453.89b9eb2b.chunk.js": "/Ravi-Programming-Academy/static/js/453.89b9eb2b.chunk.js",
+    "static/media/im3.jpeg": "/Ravi-Programming-Academy/static/media/im3.77dab9af632c422f3771.jpeg",
+    "static/media/image.jpg": "/Ravi-Programming-Academy/static/media/image.618b77bf60e8d09dc772.jpg",
+    "static/media/im1.jpeg": "/Ravi-Programming-Academy/static/media/im1.53f5a79640a7d9e6e859.jpeg",
+    "static/media/im4.jpeg": "/Ravi-Programming-Academy/static/media/im4.9737a5a0c4cbfc10b9e1.jpeg",
+    "static/media/Cognizant.jpg": "/Ravi-Programming-Academy/static/media/Cognizant.27272509474e7edb603b.jpg",
+    "static/media/im2.jpeg": "/Ravi-Programming-Academy/static/media/im2.bb2bc5faf2c263ac6dad.jpeg",
+    "static/media/Nvidia.png": "/Ravi-Programming-Academy/static/media/Nvidia.bcf68c8754d5f035ebb9.png",
+    "static/media/Tech.jpg": "/Ravi-Programming-Academy/static/media/Tech.f04f54053fc1fe547930.jpg",
+    "static/media/capgemini.png": "/Ravi-Programming-Academy/static/media/capgemini.846c07cd3b469e6a249a.png",
+    "static/media/kpit.jpg": "/Ravi-Programming-Academy/static/media/kpit.98fb5baa4172d74b0f96.jpg",
+    "static/media/Accenture.png": "/Ravi-Programming-Academy/static/media/Accenture.ce10e1dcda68567c3236.png",
+    "index.html": "/Ravi-Programming-Academy/index.html",
+    "main.f1f2987d.css.map": "/Ravi-Programming-Academy/static/css/main.f1f2987d.css.map",
+    "main.2376f64e.js.map": "/Ravi-Programming-Academy/static/js/main.2376f64e.js.map",
+    "453.89b9eb2b.chunk.js.map": "/Ravi-Programming-Academy/static/js/453.89b9eb2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f2987d.css",
+    "static/js/main.2376f64e.js"
+  ]
+}

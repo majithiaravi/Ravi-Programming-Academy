@@ -1,0 +1,42 @@
+/* ✅ Apply consistently to make dropdown positioning reliable */
+.header {
+  position: relative;
+  z-index: 1000;
+}
+
+/* ✅ Only one version of .mobile-dropdown with good z-index and proper structure */
+.mobile-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background: rgba(10, 10, 10, 0.95);
+  z-index: 1500; /* Ensure it's above everything */
+  padding: 16px 20px;
+}
+
+/* ✅ Mobile Menu Icon always hidden except on mobile */
+.mobile-menu-icon {
+  display: none;
+  font-size: 26px;
+  cursor: pointer;
+  color: white;
+  align-self: center;
+}
+
+@media (max-width: 768px) {
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .mobile-menu-icon {
+    display: block;
+  }
+
+  .header .container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
